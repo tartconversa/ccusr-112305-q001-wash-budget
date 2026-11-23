@@ -1348,7 +1348,7 @@
     "day": "2026-04-05",
     "slot": 0,
     "meter": "new-a",
-    "litres": 3111,
+    "litres": 3162,
     "available_day": "2026-04-05"
   },
   {
@@ -1356,7 +1356,7 @@
     "day": "2026-04-05",
     "slot": 1,
     "meter": "new-a",
-    "litres": 3124,
+    "litres": 3175,
     "available_day": "2026-04-05"
   },
   {
@@ -1364,7 +1364,7 @@
     "day": "2026-04-05",
     "slot": 0,
     "meter": "reuse",
-    "litres": 1560,
+    "litres": 1573,
     "available_day": "2026-04-05"
   },
   {
@@ -1372,7 +1372,7 @@
     "day": "2026-04-05",
     "slot": 1,
     "meter": "reuse",
-    "litres": 1563,
+    "litres": 1586,
     "available_day": "2026-04-05"
   }
 ]
