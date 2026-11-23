@@ -1,0 +1,43 @@
+[
+  {
+    "tank": "A-9",
+    "event": "配入",
+    "parent_tanks": [],
+    "day": "2026-04-11",
+    "slot": 3,
+    "litres": 15,
+    "grade": "普通"
+  },
+  {
+    "tank": "B-2",
+    "event": "配入",
+    "parent_tanks": [
+      "A-9"
+    ],
+    "day": "2026-04-12",
+    "slot": 0,
+    "litres": 9,
+    "grade": "普通"
+  },
+  {
+    "tank": "B-2",
+    "event": "混合",
+    "parent_tanks": [
+      "A-9",
+      "U-8"
+    ],
+    "day": "2026-04-12",
+    "slot": 1,
+    "litres": 17,
+    "grade": "待测"
+  },
+  {
+    "tank": "U-8",
+    "event": "配入",
+    "parent_tanks": [],
+    "day": "2026-04-12",
+    "slot": 1,
+    "litres": 8,
+    "grade": "待测"
+  }
+]

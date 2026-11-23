@@ -1,0 +1,29 @@
+[
+  {
+    "event": "H1",
+    "basket": "B140",
+    "station": "松谷",
+    "tank": "A-9",
+    "day": "2026-04-11",
+    "slot": 5,
+    "state": "已交接"
+  },
+  {
+    "event": "H2",
+    "basket": "B141",
+    "station": "青崖",
+    "tank": "B-2",
+    "day": "2026-04-12",
+    "slot": 2,
+    "state": "已预排"
+  },
+  {
+    "event": "H3",
+    "basket": "B142",
+    "station": "青崖",
+    "tank": "B-2",
+    "day": "2026-04-12",
+    "slot": 3,
+    "state": "待放行"
+  }
+]

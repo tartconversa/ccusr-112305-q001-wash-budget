@@ -1,0 +1,35 @@
+[
+  {
+    "statement": "UT1",
+    "version": 1,
+    "desk": "东柜",
+    "service_day": "2026-04-11",
+    "slot": 1,
+    "cycle": "C141",
+    "billed_l": 12,
+    "received_day": "2026-04-12",
+    "state": "已签收"
+  },
+  {
+    "statement": "UT2",
+    "version": 1,
+    "desk": "西柜",
+    "service_day": "2026-04-11",
+    "slot": 1,
+    "cycle": "C141",
+    "billed_l": 5,
+    "received_day": "2026-04-12",
+    "state": "待核对"
+  },
+  {
+    "statement": "UT1",
+    "version": 2,
+    "desk": "东柜",
+    "service_day": "2026-04-11",
+    "slot": 1,
+    "cycle": "C141",
+    "billed_l": 14,
+    "received_day": "2026-04-13",
+    "state": "表底订正"
+  }
+]

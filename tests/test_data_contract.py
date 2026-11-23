@@ -18,3 +18,11 @@ class SourceContractTest(unittest.TestCase):
         self.assertLess(prior["available_slot"], later["available_slot"])
         self.assertEqual({row["state"] for row in states}, {"处理中", "未开洗"})
         self.assertNotEqual(prior["allowed_use"], later["allowed_use"])
+
+    def test_transfer_chain_inputs(self):
+        sources = [read_table(name) for name in ['transfers', 'tank_ledger', 'utility_statements', 'handover']]
+        self.assertEqual([x["litres"] for x in sources[0] if x["transfer"]=="TX1"], [11,11,9,10])
+        self.assertTrue(any(x["grade"]=="待测" and len(x["parent_tanks"])==2 for x in sources[1]))
+        self.assertEqual({x["version"] for x in sources[2] if x["statement"]=="UT1"}, {1,2})
+        self.assertIn("已交接",{x["state"] for x in sources[3]})
+

@@ -1,0 +1,62 @@
+[
+  {
+    "transfer": "TX1",
+    "event": "S1",
+    "day": "2026-04-11",
+    "slot": 4,
+    "origin": "松谷",
+    "target": "青崖",
+    "tank": "A-9",
+    "reservation": "Q42",
+    "litres": 11,
+    "kind": "预留"
+  },
+  {
+    "transfer": "TX1",
+    "event": "S2",
+    "day": "2026-04-11",
+    "slot": 5,
+    "origin": "松谷",
+    "target": "青崖",
+    "tank": "A-9",
+    "reservation": "Q42",
+    "litres": 11,
+    "kind": "出站"
+  },
+  {
+    "transfer": "TX1",
+    "event": "S3",
+    "day": "2026-04-12",
+    "slot": 0,
+    "origin": "松谷",
+    "target": "青崖",
+    "tank": "A-9",
+    "reservation": "Q42",
+    "litres": 9,
+    "kind": "到站"
+  },
+  {
+    "transfer": "TX2",
+    "event": "S4",
+    "day": "2026-04-12",
+    "slot": 1,
+    "origin": "青崖",
+    "target": "松谷",
+    "tank": "B-2",
+    "reservation": "Q43",
+    "litres": 6,
+    "kind": "争用"
+  },
+  {
+    "transfer": "TX1",
+    "event": "S5",
+    "day": "2026-04-12",
+    "slot": 2,
+    "origin": "松谷",
+    "target": "青崖",
+    "tank": "A-9",
+    "reservation": "Q42",
+    "litres": 10,
+    "kind": "到站更正"
+  }
+]
