@@ -1,0 +1,1378 @@
+[
+  {
+    "reading": "M000",
+    "day": "2026-01-10",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 1150,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M001",
+    "day": "2026-01-10",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 575,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M002",
+    "day": "2026-01-10",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 1150,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M010",
+    "day": "2026-01-10",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 1166,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M011",
+    "day": "2026-01-10",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 579,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M012",
+    "day": "2026-01-10",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 1155,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M020",
+    "day": "2026-01-10",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 1183,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M021",
+    "day": "2026-01-10",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 583,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M022",
+    "day": "2026-01-10",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 1160,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M030",
+    "day": "2026-01-10",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 1201,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M031",
+    "day": "2026-01-10",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 587,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M032",
+    "day": "2026-01-10",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 1165,
+    "available_day": "2026-01-10"
+  },
+  {
+    "reading": "M100",
+    "day": "2026-01-17",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 1300,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M101",
+    "day": "2026-01-17",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 650,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M102",
+    "day": "2026-01-17",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 1300,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M110",
+    "day": "2026-01-17",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 1317,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M111",
+    "day": "2026-01-17",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 655,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M112",
+    "day": "2026-01-17",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 1306,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M120",
+    "day": "2026-01-17",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 1335,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M121",
+    "day": "2026-01-17",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 660,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M122",
+    "day": "2026-01-17",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 1312,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M130",
+    "day": "2026-01-17",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 1354,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M131",
+    "day": "2026-01-17",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 665,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M132",
+    "day": "2026-01-17",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 1318,
+    "available_day": "2026-01-17"
+  },
+  {
+    "reading": "M200",
+    "day": "2026-01-24",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 1450,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M201",
+    "day": "2026-01-24",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 725,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M202",
+    "day": "2026-01-24",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 1450,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M210",
+    "day": "2026-01-24",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 1468,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M211",
+    "day": "2026-01-24",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 731,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M212",
+    "day": "2026-01-24",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 1457,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M220",
+    "day": "2026-01-24",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 1487,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M221",
+    "day": "2026-01-24",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 737,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M222",
+    "day": "2026-01-24",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 1464,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M230",
+    "day": "2026-01-24",
+    "slot": 3,
+    "meter": "new-b",
+    "litres": 110,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M231",
+    "day": "2026-01-24",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 743,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M232",
+    "day": "2026-01-24",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 1471,
+    "available_day": "2026-01-24"
+  },
+  {
+    "reading": "M300",
+    "day": "2026-01-31",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 1600,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M301",
+    "day": "2026-01-31",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 800,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M302",
+    "day": "2026-01-31",
+    "slot": 0,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M310",
+    "day": "2026-01-31",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 1619,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M311",
+    "day": "2026-01-31",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 807,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M312",
+    "day": "2026-01-31",
+    "slot": 1,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M320",
+    "day": "2026-01-31",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 1639,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M321",
+    "day": "2026-01-31",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 814,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M322",
+    "day": "2026-01-31",
+    "slot": 2,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M330",
+    "day": "2026-01-31",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 1660,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M331",
+    "day": "2026-01-31",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 821,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M332",
+    "day": "2026-01-31",
+    "slot": 3,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-01-31"
+  },
+  {
+    "reading": "M400",
+    "day": "2026-02-07",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 1750,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M401",
+    "day": "2026-02-07",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 875,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M402",
+    "day": "2026-02-07",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 1750,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M410",
+    "day": "2026-02-07",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 1770,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M411",
+    "day": "2026-02-07",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 883,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M412",
+    "day": "2026-02-07",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 1756,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M420",
+    "day": "2026-02-07",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 1791,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M421",
+    "day": "2026-02-07",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 891,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M422",
+    "day": "2026-02-07",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 1762,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M430",
+    "day": "2026-02-07",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 1813,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M431",
+    "day": "2026-02-07",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 899,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M432",
+    "day": "2026-02-07",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 1768,
+    "available_day": "2026-02-07"
+  },
+  {
+    "reading": "M500",
+    "day": "2026-02-14",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 1900,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M501",
+    "day": "2026-02-14",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 950,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M502",
+    "day": "2026-02-14",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 1900,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M510",
+    "day": "2026-02-14",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 1916,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M511",
+    "day": "2026-02-14",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 954,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M512",
+    "day": "2026-02-14",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 1907,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M520",
+    "day": "2026-02-14",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 1933,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M521",
+    "day": "2026-02-14",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 958,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M522",
+    "day": "2026-02-14",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 1914,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M530",
+    "day": "2026-02-14",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 1951,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M531",
+    "day": "2026-02-14",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 962,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M532",
+    "day": "2026-02-14",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 1921,
+    "available_day": "2026-02-14"
+  },
+  {
+    "reading": "M600",
+    "day": "2026-02-21",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 2050,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M601",
+    "day": "2026-02-21",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 1025,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M602",
+    "day": "2026-02-21",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 2050,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M610",
+    "day": "2026-02-21",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 2067,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M611",
+    "day": "2026-02-21",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 1030,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M612",
+    "day": "2026-02-21",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 2055,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M620",
+    "day": "2026-02-21",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 2085,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M621",
+    "day": "2026-02-21",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 1035,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M622",
+    "day": "2026-02-21",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 2060,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M630",
+    "day": "2026-02-21",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 2104,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M631",
+    "day": "2026-02-21",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 1040,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M632",
+    "day": "2026-02-21",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 2065,
+    "available_day": "2026-02-21"
+  },
+  {
+    "reading": "M700",
+    "day": "2026-02-28",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 2200,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M701",
+    "day": "2026-02-28",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 1100,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M702",
+    "day": "2026-02-28",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 2200,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M710",
+    "day": "2026-02-28",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 2218,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M711",
+    "day": "2026-02-28",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 1106,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M712",
+    "day": "2026-02-28",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 2206,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M720",
+    "day": "2026-02-28",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 2237,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M721",
+    "day": "2026-02-28",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 1112,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M722",
+    "day": "2026-02-28",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 2212,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M730",
+    "day": "2026-02-28",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 2257,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M731",
+    "day": "2026-02-28",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 1118,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M732",
+    "day": "2026-02-28",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 2218,
+    "available_day": "2026-02-28"
+  },
+  {
+    "reading": "M800",
+    "day": "2026-03-07",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 2350,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M801",
+    "day": "2026-03-07",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 1175,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M802",
+    "day": "2026-03-07",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 2350,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M810",
+    "day": "2026-03-07",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 2369,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M811",
+    "day": "2026-03-07",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 1182,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M812",
+    "day": "2026-03-07",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 2357,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M820",
+    "day": "2026-03-07",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 2389,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M821",
+    "day": "2026-03-07",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 1189,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M822",
+    "day": "2026-03-07",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 2364,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M830",
+    "day": "2026-03-07",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 2410,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M831",
+    "day": "2026-03-07",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 1196,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M832",
+    "day": "2026-03-07",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 2371,
+    "available_day": "2026-03-07"
+  },
+  {
+    "reading": "M900",
+    "day": "2026-03-14",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 2500,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M901",
+    "day": "2026-03-14",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 1250,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M902",
+    "day": "2026-03-14",
+    "slot": 0,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M910",
+    "day": "2026-03-14",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 2520,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M911",
+    "day": "2026-03-14",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 1258,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M912",
+    "day": "2026-03-14",
+    "slot": 1,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M920",
+    "day": "2026-03-14",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 2541,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M921",
+    "day": "2026-03-14",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 1266,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M922",
+    "day": "2026-03-14",
+    "slot": 2,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M930",
+    "day": "2026-03-14",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 2563,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M931",
+    "day": "2026-03-14",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 1274,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M932",
+    "day": "2026-03-14",
+    "slot": 3,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-03-14"
+  },
+  {
+    "reading": "M1000",
+    "day": "2026-03-21",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 2650,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1001",
+    "day": "2026-03-21",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 1325,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1002",
+    "day": "2026-03-21",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 2650,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1010",
+    "day": "2026-03-21",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 2666,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1011",
+    "day": "2026-03-21",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 1329,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1012",
+    "day": "2026-03-21",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 2656,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1020",
+    "day": "2026-03-21",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 2683,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1021",
+    "day": "2026-03-21",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 1333,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1022",
+    "day": "2026-03-21",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 2662,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1030",
+    "day": "2026-03-21",
+    "slot": 3,
+    "meter": "new-b",
+    "litres": 150,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1031",
+    "day": "2026-03-21",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 1337,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1032",
+    "day": "2026-03-21",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 2668,
+    "available_day": "2026-03-21"
+  },
+  {
+    "reading": "M1100",
+    "day": "2026-03-28",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 2800,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1101",
+    "day": "2026-03-28",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 1400,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1102",
+    "day": "2026-03-28",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 2800,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1110",
+    "day": "2026-03-28",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 2817,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1111",
+    "day": "2026-03-28",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 1405,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1112",
+    "day": "2026-03-28",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 2807,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1120",
+    "day": "2026-03-28",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 2835,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1121",
+    "day": "2026-03-28",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 1410,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1122",
+    "day": "2026-03-28",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 2814,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1130",
+    "day": "2026-03-28",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 2854,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1131",
+    "day": "2026-03-28",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 1415,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1132",
+    "day": "2026-03-28",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 2821,
+    "available_day": "2026-03-28"
+  },
+  {
+    "reading": "M1200",
+    "day": "2026-04-04",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 2950,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1201",
+    "day": "2026-04-04",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 1475,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1202",
+    "day": "2026-04-04",
+    "slot": 0,
+    "meter": "individual",
+    "litres": 2950,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1210",
+    "day": "2026-04-04",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 2968,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1211",
+    "day": "2026-04-04",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 1481,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1212",
+    "day": "2026-04-04",
+    "slot": 1,
+    "meter": "individual",
+    "litres": 2955,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1220",
+    "day": "2026-04-04",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 2987,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1221",
+    "day": "2026-04-04",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 1487,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1222",
+    "day": "2026-04-04",
+    "slot": 2,
+    "meter": "individual",
+    "litres": 2960,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1230",
+    "day": "2026-04-04",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 3007,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1231",
+    "day": "2026-04-04",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 1493,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1232",
+    "day": "2026-04-04",
+    "slot": 3,
+    "meter": "individual",
+    "litres": 2965,
+    "available_day": "2026-04-04"
+  },
+  {
+    "reading": "M1300",
+    "day": "2026-04-11",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 3100,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1301",
+    "day": "2026-04-11",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 1550,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1302",
+    "day": "2026-04-11",
+    "slot": 0,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1310",
+    "day": "2026-04-11",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 3119,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1311",
+    "day": "2026-04-11",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 1557,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1312",
+    "day": "2026-04-11",
+    "slot": 1,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1320",
+    "day": "2026-04-11",
+    "slot": 2,
+    "meter": "new-a",
+    "litres": 3139,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1321",
+    "day": "2026-04-11",
+    "slot": 2,
+    "meter": "reuse",
+    "litres": 1564,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1322",
+    "day": "2026-04-11",
+    "slot": 2,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1330",
+    "day": "2026-04-11",
+    "slot": 3,
+    "meter": "new-a",
+    "litres": 3160,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1331",
+    "day": "2026-04-11",
+    "slot": 3,
+    "meter": "reuse",
+    "litres": 1571,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "M1332",
+    "day": "2026-04-11",
+    "slot": 3,
+    "meter": "individual",
+    "litres": null,
+    "available_day": "2026-04-11"
+  },
+  {
+    "reading": "NE10",
+    "day": "2026-04-05",
+    "slot": 0,
+    "meter": "new-a",
+    "litres": 3111,
+    "available_day": "2026-04-05"
+  },
+  {
+    "reading": "NE11",
+    "day": "2026-04-05",
+    "slot": 1,
+    "meter": "new-a",
+    "litres": 3124,
+    "available_day": "2026-04-05"
+  },
+  {
+    "reading": "NE20",
+    "day": "2026-04-05",
+    "slot": 0,
+    "meter": "reuse",
+    "litres": 1560,
+    "available_day": "2026-04-05"
+  },
+  {
+    "reading": "NE21",
+    "day": "2026-04-05",
+    "slot": 1,
+    "meter": "reuse",
+    "litres": 1563,
+    "available_day": "2026-04-05"
+  }
+]

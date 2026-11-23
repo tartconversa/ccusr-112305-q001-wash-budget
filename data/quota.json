@@ -1,0 +1,1048 @@
+[
+  {
+    "day": "2026-01-10",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-10",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-10",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-10",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-10",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-10",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-10",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-17",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-17",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-17",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-17",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-17",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-17",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-17",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-24",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-24",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-24",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-24",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-24",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-24",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-24",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-31",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-31",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-31",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-31",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-31",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-31",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-01-31",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-07",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-07",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-07",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-07",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-07",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-07",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-07",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-14",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-14",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-14",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-14",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-14",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-14",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-14",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-21",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-21",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-21",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-21",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-21",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-21",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-21",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-28",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-28",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-28",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-28",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-28",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-28",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-02-28",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-07",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-07",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-07",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-07",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-07",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-07",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-07",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-14",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-14",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-14",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-14",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-14",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-14",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-14",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-21",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-21",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-21",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-21",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-21",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-21",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-21",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-28",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-28",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-28",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-28",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-28",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-28",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-03-28",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-04",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-04",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-04",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-04",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-04",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-04",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-04",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-11",
+    "slot": 0,
+    "new_water_l": 22,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-11",
+    "slot": 1,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-11",
+    "slot": 2,
+    "new_water_l": 22,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 18,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-11",
+    "slot": 3,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-11",
+    "slot": 4,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-11",
+    "slot": 5,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-11",
+    "slot": 6,
+    "new_water_l": 14,
+    "machines": [
+      "A",
+      "B"
+    ],
+    "basket_capacity": 12,
+    "carry_from": null
+  },
+  {
+    "day": "2026-04-12",
+    "slot": 0,
+    "new_water_l": 14,
+    "machines": [
+      "A"
+    ],
+    "basket_capacity": 12,
+    "carry_from": "2026-04-11"
+  }
+]

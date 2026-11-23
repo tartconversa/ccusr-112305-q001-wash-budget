@@ -1,0 +1,506 @@
+[
+  {
+    "basket": "B010",
+    "day": "2026-01-10",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 7,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R010"
+    ]
+  },
+  {
+    "basket": "B011",
+    "day": "2026-01-10",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 8,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R011"
+    ]
+  },
+  {
+    "basket": "B012",
+    "day": "2026-01-10",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 9,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R012"
+    ]
+  },
+  {
+    "basket": "B020",
+    "day": "2026-01-17",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 8,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R020"
+    ]
+  },
+  {
+    "basket": "B021",
+    "day": "2026-01-17",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 9,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R021"
+    ]
+  },
+  {
+    "basket": "B022",
+    "day": "2026-01-17",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 10,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R022"
+    ]
+  },
+  {
+    "basket": "B030",
+    "day": "2026-01-24",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 9,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R030"
+    ]
+  },
+  {
+    "basket": "B031",
+    "day": "2026-01-24",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 10,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R031"
+    ]
+  },
+  {
+    "basket": "B032",
+    "day": "2026-01-24",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 11,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R032"
+    ]
+  },
+  {
+    "basket": "B040",
+    "day": "2026-01-31",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 10,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R040"
+    ]
+  },
+  {
+    "basket": "B041",
+    "day": "2026-01-31",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 11,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R041"
+    ]
+  },
+  {
+    "basket": "B042",
+    "day": "2026-01-31",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 12,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R042"
+    ]
+  },
+  {
+    "basket": "B050",
+    "day": "2026-02-07",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 6,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R050"
+    ]
+  },
+  {
+    "basket": "B051",
+    "day": "2026-02-07",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 7,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R051"
+    ]
+  },
+  {
+    "basket": "B052",
+    "day": "2026-02-07",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 8,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R052"
+    ]
+  },
+  {
+    "basket": "B060",
+    "day": "2026-02-14",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 7,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R060"
+    ]
+  },
+  {
+    "basket": "B061",
+    "day": "2026-02-14",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 8,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R061"
+    ]
+  },
+  {
+    "basket": "B062",
+    "day": "2026-02-14",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 9,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R062"
+    ]
+  },
+  {
+    "basket": "B070",
+    "day": "2026-02-21",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 8,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R070"
+    ]
+  },
+  {
+    "basket": "B071",
+    "day": "2026-02-21",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 9,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R071"
+    ]
+  },
+  {
+    "basket": "B072",
+    "day": "2026-02-21",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 10,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R072"
+    ]
+  },
+  {
+    "basket": "B080",
+    "day": "2026-02-28",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 9,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R080"
+    ]
+  },
+  {
+    "basket": "B081",
+    "day": "2026-02-28",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 10,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R081"
+    ]
+  },
+  {
+    "basket": "B082",
+    "day": "2026-02-28",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 11,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R082"
+    ]
+  },
+  {
+    "basket": "B090",
+    "day": "2026-03-07",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 10,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R090"
+    ]
+  },
+  {
+    "basket": "B091",
+    "day": "2026-03-07",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 11,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R091"
+    ]
+  },
+  {
+    "basket": "B092",
+    "day": "2026-03-07",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 12,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R092"
+    ]
+  },
+  {
+    "basket": "B100",
+    "day": "2026-03-14",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 6,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R100"
+    ]
+  },
+  {
+    "basket": "B101",
+    "day": "2026-03-14",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 7,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R101"
+    ]
+  },
+  {
+    "basket": "B102",
+    "day": "2026-03-14",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 8,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R102"
+    ]
+  },
+  {
+    "basket": "B110",
+    "day": "2026-03-21",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 7,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R110"
+    ]
+  },
+  {
+    "basket": "B111",
+    "day": "2026-03-21",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 8,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R111"
+    ]
+  },
+  {
+    "basket": "B112",
+    "day": "2026-03-21",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 9,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R112"
+    ]
+  },
+  {
+    "basket": "B120",
+    "day": "2026-03-28",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 8,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R120"
+    ]
+  },
+  {
+    "basket": "B121",
+    "day": "2026-03-28",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 9,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R121"
+    ]
+  },
+  {
+    "basket": "B122",
+    "day": "2026-03-28",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 10,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R122"
+    ]
+  },
+  {
+    "basket": "B130",
+    "day": "2026-04-04",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 9,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R130"
+    ]
+  },
+  {
+    "basket": "B131",
+    "day": "2026-04-04",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 10,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R131"
+    ]
+  },
+  {
+    "basket": "B132",
+    "day": "2026-04-04",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 11,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R132"
+    ]
+  },
+  {
+    "basket": "B140",
+    "day": "2026-04-11",
+    "desk": "东柜",
+    "item": "手套",
+    "soil": "普通",
+    "quantity": 10,
+    "collect_slot": 5,
+    "linked_bookings": [
+      "R140"
+    ]
+  },
+  {
+    "basket": "B141",
+    "day": "2026-04-11",
+    "desk": "西柜",
+    "item": "护腕",
+    "soil": "普通",
+    "quantity": 11,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R141"
+    ]
+  },
+  {
+    "basket": "B142",
+    "day": "2026-04-11",
+    "desk": "团课",
+    "item": "手套",
+    "soil": "单洗",
+    "quantity": 12,
+    "collect_slot": 6,
+    "linked_bookings": [
+      "R142"
+    ]
+  }
+]

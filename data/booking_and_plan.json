@@ -1,0 +1,47 @@
+[
+  {
+    "event": "order",
+    "basket": "B130",
+    "booking": "R130",
+    "state": "已确认",
+    "slot": 5,
+    "cycle": null,
+    "day": "2026-04-04"
+  },
+  {
+    "event": "order",
+    "basket": "B131",
+    "booking": "R131",
+    "state": "已确认",
+    "slot": 6,
+    "cycle": null,
+    "day": "2026-04-04"
+  },
+  {
+    "event": "plan",
+    "basket": "B130",
+    "booking": "R130",
+    "state": "处理中",
+    "slot": 2,
+    "cycle": "C131",
+    "day": "2026-04-04"
+  },
+  {
+    "event": "plan",
+    "basket": "B131",
+    "booking": "R131",
+    "state": "未开洗",
+    "slot": 3,
+    "cycle": "C131",
+    "day": "2026-04-04"
+  },
+  {
+    "event": "pickup",
+    "basket": "B121",
+    "booking": "R121",
+    "state": "已交接",
+    "slot": 6,
+    "cycle": "C121",
+    "day": "2026-03-28"
+  }
+]

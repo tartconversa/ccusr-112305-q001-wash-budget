@@ -1,0 +1,380 @@
+[
+  {
+    "cycle": "C011",
+    "day": "2026-01-10",
+    "slot": 1,
+    "program": "常用",
+    "baskets": [
+      "B010",
+      "B011"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 6,
+    "reused_l": 0,
+    "release_day": "2026-01-10"
+  },
+  {
+    "cycle": "C021",
+    "day": "2026-01-17",
+    "slot": 1,
+    "program": "常用",
+    "baskets": [
+      "B020",
+      "B021"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 7,
+    "reused_l": 0,
+    "release_day": "2026-01-17"
+  },
+  {
+    "cycle": "C031",
+    "day": "2026-01-24",
+    "slot": 1,
+    "program": "常用",
+    "baskets": [
+      "B030",
+      "B031"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 8,
+    "reused_l": 0,
+    "release_day": "2026-01-24"
+  },
+  {
+    "cycle": "C041",
+    "day": "2026-01-31",
+    "slot": 1,
+    "program": "常用",
+    "baskets": [
+      "B040",
+      "B041"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 5,
+    "reused_l": 0,
+    "release_day": "2026-01-31"
+  },
+  {
+    "cycle": "C051",
+    "day": "2026-02-07",
+    "slot": 1,
+    "program": "常用",
+    "baskets": [
+      "B050",
+      "B051"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 6,
+    "reused_l": 0,
+    "release_day": "2026-02-07"
+  },
+  {
+    "cycle": "C061",
+    "day": "2026-02-14",
+    "slot": 1,
+    "program": "常用",
+    "baskets": [
+      "B060",
+      "B061"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 7,
+    "reused_l": 0,
+    "release_day": "2026-02-14"
+  },
+  {
+    "cycle": "C071",
+    "day": "2026-02-21",
+    "slot": 1,
+    "program": "常用",
+    "baskets": [
+      "B070",
+      "B071"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 8,
+    "reused_l": 0,
+    "release_day": "2026-02-21"
+  },
+  {
+    "cycle": "C081",
+    "day": "2026-02-28",
+    "slot": 1,
+    "program": "常用",
+    "baskets": [
+      "B080",
+      "B081"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 5,
+    "reused_l": 0,
+    "release_day": "2026-02-28"
+  },
+  {
+    "cycle": "C091",
+    "day": "2026-03-07",
+    "slot": 1,
+    "program": "节水",
+    "baskets": [
+      "B090",
+      "B091"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 6,
+    "reused_l": 0,
+    "release_day": "2026-03-07"
+  },
+  {
+    "cycle": "C101",
+    "day": "2026-03-14",
+    "slot": 1,
+    "program": "节水",
+    "baskets": [
+      "B100",
+      "B101"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 7,
+    "reused_l": 0,
+    "release_day": "2026-03-14"
+  },
+  {
+    "cycle": "C111",
+    "day": "2026-03-21",
+    "slot": 1,
+    "program": "节水",
+    "baskets": [
+      "B110",
+      "B111"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 8,
+    "reused_l": 0,
+    "release_day": "2026-03-21"
+  },
+  {
+    "cycle": "C121",
+    "day": "2026-03-28",
+    "slot": 1,
+    "program": "节水",
+    "baskets": [
+      "B120",
+      "B121"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 5,
+    "reused_l": 0,
+    "release_day": "2026-03-28"
+  },
+  {
+    "cycle": "C131",
+    "day": "2026-04-04",
+    "slot": 1,
+    "program": "节水",
+    "baskets": [
+      "B130",
+      "B131"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 6,
+    "reused_l": 0,
+    "release_day": "2026-04-04"
+  },
+  {
+    "cycle": "C141",
+    "day": "2026-04-11",
+    "slot": 1,
+    "program": "节水",
+    "baskets": [
+      "B140",
+      "B141"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 7,
+    "reused_l": 0,
+    "release_day": "2026-04-11"
+  },
+  {
+    "cycle": "C012",
+    "day": "2026-01-10",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B012"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 3,
+    "release_day": "2026-01-10"
+  },
+  {
+    "cycle": "C022",
+    "day": "2026-01-17",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B022"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 3,
+    "release_day": "2026-01-17"
+  },
+  {
+    "cycle": "C032",
+    "day": "2026-01-24",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B032"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 0,
+    "release_day": "2026-01-24"
+  },
+  {
+    "cycle": "C042",
+    "day": "2026-01-31",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B042"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 3,
+    "release_day": "2026-01-31"
+  },
+  {
+    "cycle": "C052",
+    "day": "2026-02-07",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B052"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 3,
+    "release_day": "2026-02-07"
+  },
+  {
+    "cycle": "C062",
+    "day": "2026-02-14",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B062"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 0,
+    "release_day": "2026-02-14"
+  },
+  {
+    "cycle": "C072",
+    "day": "2026-02-21",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B072"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 3,
+    "release_day": "2026-02-21"
+  },
+  {
+    "cycle": "C082",
+    "day": "2026-02-28",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B082"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 3,
+    "release_day": "2026-02-28"
+  },
+  {
+    "cycle": "C092",
+    "day": "2026-03-07",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B092"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 0,
+    "release_day": "2026-03-07"
+  },
+  {
+    "cycle": "C102",
+    "day": "2026-03-14",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B102"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 3,
+    "release_day": "2026-03-14"
+  },
+  {
+    "cycle": "C112",
+    "day": "2026-03-21",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B112"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 3,
+    "release_day": "2026-03-21"
+  },
+  {
+    "cycle": "C122",
+    "day": "2026-03-28",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B122"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 0,
+    "release_day": "2026-03-28"
+  },
+  {
+    "cycle": "C132",
+    "day": "2026-04-04",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B132"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 3,
+    "release_day": "2026-04-04"
+  },
+  {
+    "cycle": "C142",
+    "day": "2026-04-11",
+    "slot": 2,
+    "program": "单洗",
+    "baskets": [
+      "B142"
+    ],
+    "wash_tub": "A",
+    "recovered_l": 0,
+    "reused_l": 3,
+    "release_day": "2026-04-11"
+  }
+]

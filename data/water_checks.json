@@ -1,0 +1,165 @@
+[
+  {
+    "check": "T01",
+    "version": 1,
+    "cycle": "C011",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T02",
+    "version": 1,
+    "cycle": "C021",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T03",
+    "version": 1,
+    "cycle": "C031",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T04",
+    "version": 1,
+    "cycle": "C041",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T05",
+    "version": 1,
+    "cycle": "C051",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T06",
+    "version": 1,
+    "cycle": "C061",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T07",
+    "version": 1,
+    "cycle": "C071",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T08",
+    "version": 1,
+    "cycle": "C081",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T09",
+    "version": 1,
+    "cycle": "C091",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T10",
+    "version": 1,
+    "cycle": "C101",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T11",
+    "version": 1,
+    "cycle": "C111",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T12",
+    "version": 1,
+    "cycle": "C121",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T13",
+    "version": 1,
+    "cycle": "C131",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T14",
+    "version": 1,
+    "cycle": "C141",
+    "grade": "普通",
+    "available_slot": 2,
+    "allowed_use": [
+      "普通"
+    ],
+    "verdict": "通过"
+  },
+  {
+    "check": "T13",
+    "version": 2,
+    "cycle": "C131",
+    "grade": "普通",
+    "available_slot": 4,
+    "allowed_use": [],
+    "verdict": "撤销"
+  }
+]
